@@ -14,8 +14,8 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=96C9F9&height=200&section=header&text=Siyeon%20Github!&fontSize=70" />
 </div>
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<h2>📚 Tech Stack 📚</h2>
+	<h3>✨ Platforms & Languages ✨</h3>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
