@@ -10,8 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=96C9F9&height=200&section=header&text=Siyeon%20Github!&fontSize=70" />
-
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=96C9F9&height=200&section=header&text=Siyeon%20Github!&fontSize=70" />
+</div>
 <div align="center">
 	📚 STACKS
 </div>
