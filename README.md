@@ -58,3 +58,6 @@ Here are some ideas to get you started:
 	</a>
 	<br>
 </div>
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=96C9F9&height=90&section=footer&text=&fontSize=70" />
+</div>
