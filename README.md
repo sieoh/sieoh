@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=96C9F9&height=200&section=header&text=Siyeon%20Github!&fontSize=70" />
 </div>
-<br>
-<br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
