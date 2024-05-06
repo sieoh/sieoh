@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=96C9F9&height=200&section=header&text=Siyeon%20Github!&fontSize=70" />
 
-<div align="center">
-	##📚 STACKS
-</div>
+
+##📚 STACKS
+
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
