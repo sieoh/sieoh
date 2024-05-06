@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=96C9F9&height=200&section=header&text=&fontSize=70" />
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&random=false&width=1000&height=100&lines=Welcome+to+Siyeon's+GitHub" alt="Typing SVG" /></a>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=96C9F9&height=30&section=header&text=&fontSize=70" />
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=true&random=false&width=1000&height=100&lines=Welcome+to+Siyeon's+GitHub" alt="Typing SVG" /></a>
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
