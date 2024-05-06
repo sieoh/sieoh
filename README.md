@@ -46,6 +46,9 @@ Here are some ideas to get you started:
 	<p>🎨 SNS 🎨</p>
 </div>
 <div align=center>
+	<a href="mailto:sieoh@naver.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
 	<a href="https://muddy-vest-266.notion.site/0a6e7187ec4e4339941690e7f4ab0f3f?v=c56e5094572a46efa7e2ab24bfde4bef&pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
