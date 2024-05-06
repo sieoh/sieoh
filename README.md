@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<h4>🛠 Tools 🛠</h4>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align="center">
-	<p>🎨 SNS 🎨</p>
+	<h4>🎨 SNS 🎨</h4>
 </div>
 <div align=center>
 	<a href="mailto:sieoh@naver.com">
